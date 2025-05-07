@@ -20,7 +20,7 @@ setup(
     url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
     author_email="debashish89@gmail.com",
     packages=[SRC_REPO],
-    license="MIT",
+    license="OUTR",
     python_requires=">=3.13",
     install_requires=LIST_OF_REQUIREMENTS
 )
