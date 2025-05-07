@@ -21,6 +21,6 @@ setup(
     author_email="debashish89@gmail.com",
     packages=[SRC_REPO],
     license="OUTR",
-    python_requires=">=3.13",
+    python_requires=">=3.7",
     install_requires=LIST_OF_REQUIREMENTS
 )
