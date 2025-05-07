@@ -59,7 +59,7 @@ The purpose of a recommendation system basically is to search for content that w
 This is a streamlit web application that can recommend various kinds of similar books based on an user interest.
 here is a demo,
 
-* [Click here to run it live on server](https://debashish89@gmail.com/)
+* [Click here to run it live on server](https://book-recommender1.streamlit.app/)
 
 
 # Demo:
@@ -73,7 +73,7 @@ here is a demo,
 
 # Dataset has been used:
 
-* [Dataset link](www.xxxxxx.com)
+* [Dataset link](https://github.com/debashish89/book-recommender/tree/main/data)
 
 # Concept used to build the model.pkl file : NearestNeighbors
 
