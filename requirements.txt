@@ -1,4 +1,5 @@
 ### dependency
+scikit-learn
 streamlit
 numpy
 
