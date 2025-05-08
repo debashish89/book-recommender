@@ -125,7 +125,7 @@ streamlit run app.py
 
 
 ```bash
-<b>Author: Debashish Dash
+### Author: Debashish Dash
 MTech CSE Student
 Odisha University of Technology and Research</b>
 Email: debashish89@gmail.com
