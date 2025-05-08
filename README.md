@@ -1,5 +1,3 @@
-# book-recommender
-
 # Project: Book Recommender System Using Machine Learning! | Collaborative Filtering Based
 
 <img src="demo/6.jpeg" alt="workflow" width="70%">
@@ -127,6 +125,7 @@ streamlit run app.py
 
 
 ```bash
-Author: Debashish Dash
-Mtech CSE Student
+<b>Author: Debashish Dash
+MTech CSE Student
+Odisha University of Technology and Research</b>
 Email: debashish89@gmail.com
